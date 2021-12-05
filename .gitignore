@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 Topic_Modeling/data/*
+EDA/data/*
+Recommendation_System/data/*
