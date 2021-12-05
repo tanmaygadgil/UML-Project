@@ -15,7 +15,7 @@ The main folder contains some basic housekeeping files like git ignore.
 
 ## Data
 
-Due to githubs data constraints, we cannot upload data to our repository. In order to replicate our results you can refer to the data found in these google drive links.
+Due to github's data constraints, we cannot upload data to our repository. In order to replicate our results you can refer to the data found in these google drive links.
 
 - [Topic Modeling Data](https://drive.google.com/drive/folders/1StwtPZvO_Kr5sKNFx12LOHVmsbA3Nrlj?usp=sharing)
 - Recommendation System Data
