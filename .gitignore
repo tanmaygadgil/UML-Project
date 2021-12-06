@@ -130,5 +130,5 @@ dmypy.json
 
 # Data folders
 Topic_Modeling/data/*
-EDA/data/*
+EDA_clustering/data/*
 Recommendation_System/data/*
