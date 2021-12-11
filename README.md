@@ -19,7 +19,7 @@ Due to github's data constraints, we cannot upload data to our repository. In or
 
 - [Topic Modeling Data](https://drive.google.com/drive/folders/1StwtPZvO_Kr5sKNFx12LOHVmsbA3Nrlj?usp=sharing)
 - Recommendation System Data
-- EDA Data
+- [EDA_clustering Data](https://drive.google.com/drive/u/2/folders/1OH1QPaq0CpNf-DViWYH9x1Eii01A5M3H)
 
 **Note:** You will need access to these files, please contact any of the collaborators for access to the data on google drive. 
 
