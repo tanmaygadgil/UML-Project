@@ -18,7 +18,7 @@ The main folder contains some basic housekeeping files like git ignore.
 Due to github's data constraints, we cannot upload data to our repository. In order to replicate our results you can refer to the data found in these google drive links.
 
 - [Topic Modeling Data](https://drive.google.com/drive/folders/1StwtPZvO_Kr5sKNFx12LOHVmsbA3Nrlj?usp=sharing)
-- Recommendation System Data
+- [Recommendation System Data](https://northeastern-my.sharepoint.com/:f:/g/personal/garg_p_northeastern_edu/EiWZA3dos_RDoYhmSZRSxRcBC9E_HWsxU-GUkhSq9VPweQ?email=garg.p%40northeastern.edu&e=qm0zgJ)
 - [EDA and Clustering Data](https://drive.google.com/drive/folders/1OH1QPaq0CpNf-DViWYH9x1Eii01A5M3H?usp=sharing)
 
 **Note:** You will need access to these files, please contact any of the collaborators for access to the data on google drive. 
